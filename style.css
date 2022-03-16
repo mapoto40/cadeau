@@ -2,8 +2,8 @@
     position: absolute;
     display: block;
     background-color: black;
-    width: 50vh;
-    height: 50%;
+    width: 1000000vh;
+    height: 5002000%;
     animation: lol .1s infinite;
 }
 @keyframes lol {
