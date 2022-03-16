@@ -1,0 +1,43 @@
+.lol{
+    position: absolute;
+    display: block;
+    background-color: black;
+    width: 50vh;
+    height: 50%;
+    animation: lol .1s infinite;
+}
+@keyframes lol {
+    0%{
+        background-color: blue;
+    }
+    10%{
+        background-color: white;
+    }
+    20%{
+        background-color: red;
+    }
+    30%{
+        background-color: rgb(157, 255, 0);
+    }
+    40%{
+        background-color: rgb(251, 255, 0);
+    }
+    50%{
+        background-color: rgb(21, 255, 0);
+    }
+    60%{
+        background-color: rgb(0, 238, 255);
+    }
+    70%{
+        background-color: rgb(0, 26, 255);
+    }
+    80%{
+        background-color: rgb(255, 0, 255);
+    }
+    90%{
+        background-color: rgb(255, 0, 140);
+    }
+    100%{
+        background-color: rgb(132, 0, 255);
+    }
+}
